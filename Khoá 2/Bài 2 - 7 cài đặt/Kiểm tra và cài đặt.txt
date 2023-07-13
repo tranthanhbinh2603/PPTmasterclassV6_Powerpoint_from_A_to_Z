@@ -1,0 +1,22 @@
+- Kiểm tra máy có Morph và Zoom không, nếu chưa có thì cài lại office qua Office Tool Plus
+
+- Cài đặt font: Copy hết folder "FONT" vào C:\Windows\Fonts
+
+- Cài đặt phần mềm iSlide. Khắc phục lỗi iSlide không hiện tab trong Powerpoint (https://gitiho.com/blog/cach-sua-loi-islide-khong-hien-thi-trong-powerpoint-2021.html)
+
+- Chỉnh office Theme (có hình minh hoạ)
+
+- Cài đặt Blank Template: Copy file Blank.potx vào C:\Users\<user name>\AppData\Roaming\Microsoft\Templates
+<user name> là tên máy tính của bạn.
+
+- Cài đặt thanh Quick Access: https://gitiho.com/blog/cach-cai-dat-nhung-tien-ich-giup-cai-thien-tien-do-lam-viec-powerpoint.html#:~:text=Ti%E1%BB%87n%20%C3%ADch%20truy%20c%E1%BA%ADp%20nhanh 
+
+File cài đặt: PowerPoint Customizations.exportedUI
+
+Xem mẫu setup: Mau Setup.png
+
+- Tắt check chính tả
+
+- AutoRecover giảm xuống 5 phút
+
+- Chỉnh số lần undo (có hướng dẫn)
