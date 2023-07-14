@@ -1,0 +1,33 @@
+- File đã mở
+
+- Tạo theo mẫu (theme)
+
+- Tạo file mới
+
+- Tab file:
++ Xem thông tin file
++ Lưu file
++ Export: PDF, video, ...
++ Kiểm tra account
++ Options: Cài đặt cho powerpoint
+
+- Tab home
++ Thay đổi phông chữ
++ Cài đặt sắp xếp
++ Đổi phông chữ hàng loạt
+
+- Insert:
++ Chèn khối
++ Chèn hình
+
+- Draw (vẽ - phải tự bật)
+
+- Design (chọn khổ slide riêng)
+
+- Tradtion: Chuyển slide
+
+- Animations: Trình chiếu hiệu ứng với vật thể.
+
+- View: Xem slide dưới các dạng khác nhau
+
+- Recoding: Ghi lại bản thuyết trình.
