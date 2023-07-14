@@ -1,0 +1,8 @@
+This is just example data if you would like to follow what I do in the lectures.
+This section doesn't require you to work along, you can just watch the lectures. 
+BUT, if you want to learn you can use this file. Each presentation is different
+and it's difficult to always know how to approach large data, but practice never
+hurts, so enjoy this file.
+
+Best,
+Andrew
