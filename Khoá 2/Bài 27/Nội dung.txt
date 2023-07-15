@@ -1,0 +1,8 @@
+- Bố cục là sự sắp xếp các thành phần trong slide theo 1 quy luật, thống nhất nhằm để tạo nên sự cân bằng trong slide
+
+- Những yếu tố tạo nên bố cục:
++ Khoảng không
++ Hình khối
++ Chữ
+
+- Bố cục có nhiều dạng, nhưng dạng gặp nhiều nhất là bố cục trung tâm (ứng dụng vào slide mở đầu và kết thúc, hoặc cho các slide trực quan, sử dụng sơ đồ có icon trung tâm; hoặc là cho các câu quote-kêu gọi hành động)
