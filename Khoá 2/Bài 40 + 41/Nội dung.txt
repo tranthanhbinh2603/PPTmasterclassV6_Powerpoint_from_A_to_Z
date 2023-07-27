@@ -1,0 +1,22 @@
+- Chỉ sử dụng 3 loại màu
+- Không sử dụng màu loè loẹt
+- Sử dụng mã màu chuẩn thương hiệu: Báo với bên bộ phận thiết kế
+- Có nhiều loại: Đơn sắc, tương phản, tương đồng 
+- Vd màu xanh làm cho nó tươi mát, màu đỏ là thịnh vượng
+- Cơ sở chọn màu sắc: Color Wheel
+- Có dải màu nóng và màu lạnh
+- Quy tắc chọn màu:
++ Chọn màu tương đồng: 2 màu cạnh nhau trên bánh xe màu
++ Đối lập: 2 màu cách nhau 180 độ
++ Đơn sắc: Giảm độ tương phản của 1 màu
+- Quy tắc: 60 - 30 -10
+- Màu chủ đạo: Là màu nền
+- Màu phụ: Làm nội dung kém quan trọng, bullets
+- Màu nhấn: Nội dung quan trọng, cần khán giả để ý
+- Phân phối nền trước tiên
++ Nền đen - trắng
++ Nền màu
++ Nền ảnh
++ Nền gradient
+- Nền tối thì chữ sáng và ngược lại
+- Fix color bạn dùng giảm độ sáng bằng cách kéo thanh color lên ở 1 trong 2 loại: Màu chữ hoặc màu nền (Xem hình ví dụ)
