@@ -1,0 +1,18 @@
+Font có nhiều loại
+- Font loại A3 (không chân - San Serif) - hiện đại
+- Font loại A4 (có chân - Serif) => Cảm giác Luxury, tinh tế
+
+Cảm hứng font chữ: https://khoahocjovis.edu.vn/ - khoá học free
+
+Nhấn mạnh bằng màu và bằng kích cỡ: Chỉ cần nhấn mạnh 1 trong 2
+
+Có thể vẽ khung xung quanh chữ
+
+Có thể đặt chữ to nhỏ tuỳ loại. Để nhấn mạnh tên gọi
+
+Có thể kết hợp bôi đậm và gạch chân
+
+Mẹo dùng font:
+- Font MitrBold, BoosterNextFY hay mấy phông mập, bôi đậm dùng cho các sản phẩm kiểu trẻ con
+- Helvet thì font khá vững chác
+- Tiêu đề hạn chế dùng font mỏng
