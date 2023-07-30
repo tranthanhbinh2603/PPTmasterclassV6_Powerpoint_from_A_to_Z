@@ -1,0 +1,13 @@
+- Infographic là thông tin được trực quan hoá thông qua đồ hoạ máy tính/
+
+- Các dạng Infographic:
++ So sánh: Cái nào tốt hơn cái nào...
++ Liệt kê: Liệt kê phương án, thông tin,....
++ Cả 2: Lựa chọn phương án tối ưu
++ Chu trình: Vòng lặp vô tận
++ Dòng thời gian (Timeline)
++ Phân tích Swot
++ People Graph: % theo biểu
++ Supply Chain
+
+- Nguồn tham khảo Infograph
