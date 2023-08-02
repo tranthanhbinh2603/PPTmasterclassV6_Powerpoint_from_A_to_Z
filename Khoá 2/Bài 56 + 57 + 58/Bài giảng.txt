@@ -1,0 +1,16 @@
+- Daskboard được coi là 1 hộp số dành cho doanh nghiệp, nhàm trình bày số liệu một cách trực quan và để ra quyết định nhanh chóng
+
+- Với số liệu, hãy phóng to nó lên, làm đổi phông chữ và màu chữ đi. Cúng có thể thêm Icon hoặc chú thích vào nó để làm nó nổi bật hơn
+
+- Hoặc dùng icon biểu thị %
+
+- Đối với bảng:
++ Bỏ đường dóng dọc đi.
++ Gióng ngang nhạt nhất có thể
+
+- Trong doanh nghiệp chỉ quan tâm: Colum, line, bar.
+- Yêu cầu về bảng biểu: Có trong Slide
+
+- Nếu có 2 thành phần hoặc 3 thành phần thì ta chia theo chia cột
+
+- Không nên tạo >6 thành phần 1 slide
