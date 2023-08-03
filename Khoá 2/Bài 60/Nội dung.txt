@@ -1,0 +1,20 @@
+- Hiệu ứng chuyển trang:
++ Không nên dùng hiệu ứng ở mục Exciting, thỉnh thoảng dùng Checkerboard. Hoặc Curtains cho slide kết thúc
++ Sử dụng tất cả slide kiểu Fade, và Tính năng Apply to All
+	- Smothly và Through Black. Through Black sử dụng cho câu nói hoặc cần người xem chú ý
+	- Ứng dụng hiệu ứng Fade để tách từng ý
++ Hiệu ứng Push cho Timeline. Sử dụng Options
+
+- Hiệu ứng trên trang:
++ Phải click vào vật thể
+Các loại hiệu ứng
++ Entrace: Đi vào
++ Emphasis: Nhấn mạnh
++ Exit: Đi ra
++ Motion Path: Điểm đầu và điểm kết thúc
+
++ Add nhiều hiệu ứng 
++ Bảng quản lý hiệu ứng
++ Start on lick, start with privios, start after privions 
++ Chọn thời gian bắt đầu kết thúc
++ Move Earlier
