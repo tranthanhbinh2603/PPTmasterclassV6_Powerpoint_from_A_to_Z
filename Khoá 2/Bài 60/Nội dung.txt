@@ -6,7 +6,7 @@
 + Hiệu ứng Push cho Timeline. Sử dụng Options
 
 - Hiệu ứng trên trang:
-+ Phải click vào vật thể
++ Phải click vào vật thể 
 Các loại hiệu ứng
 + Entrace: Đi vào
 + Emphasis: Nhấn mạnh
@@ -18,3 +18,10 @@ Các loại hiệu ứng
 + Start on lick, start with privios, start after privions 
 + Chọn thời gian bắt đầu kết thúc
 + Move Earlier
+
+- Hiệu ứng flyin:
+Duration: 1-1.25s
+Smooth End: max
+Ứng dụng Sequence trong Islide
+
+- Hiệu ứng fade: Từng chữ
