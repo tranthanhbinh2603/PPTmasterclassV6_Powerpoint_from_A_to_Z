@@ -1,0 +1,19 @@
+- Office 2003:
++ Dao diện rất cũ
++ Ít thấy
+
+- Office 2010:
++ Tab file màu cam:
+
+- 2013:
++ Nền không màu xám nữa, mà màu trắng
+
+- 2016, 2019:
++ Nền màu cam
++ Chữ màu trắng
++ Tab file có màu tab không phân biệt với các tab khác
+
+- Office 365:
++ Mới nhất hiện nay
+
+Cách kiểm tra: Vào tab file -> Tab Account

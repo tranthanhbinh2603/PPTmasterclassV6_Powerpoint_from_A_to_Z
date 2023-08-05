@@ -25,3 +25,13 @@ Smooth End: max
 Ứng dụng Sequence trong Islide
 
 - Hiệu ứng fade: Từng chữ
+
+- Hiệu ứng Grow Strink & Compress
+
+- hiệu ứng Wheel: Dùng cho biểu đồ hình tròn. Còn với biểu đồ thanh dùng wine
+
+- Chạy từng cột 1 trong đồ thị
+
+- Dùng byword trong văn bản dài cho pade
+
+- Bỏ tích phần selection cho nó giảm bớt phần xem
