@@ -17,3 +17,5 @@
 + Mới nhất hiện nay
 
 Cách kiểm tra: Vào tab file -> Tab Account
+
+Phân biệt chuyển cảnh giữa slide (Transition) và chuyển ảnh vật thể (Animation)
