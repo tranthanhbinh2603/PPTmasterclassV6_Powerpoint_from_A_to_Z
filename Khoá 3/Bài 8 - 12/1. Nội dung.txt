@@ -1,0 +1,7 @@
+- Thêm transtion trên thanh acess tool bar
+
+- Áp dụng Morph:
++ Nhân đôi slide, thực hiện thay đổi vị trí của nó
++ Khi thay đổi shape (change shape) thì sẽ không morph được => Để 2 đối tượng cùng tên trong Selction và thêm 2 dấu !! ở trước
++ Khi bạn change text, thay đổi nội dung trong box, bạn cần làm như sau: Để 2 đối tượng cùng tên trong Selction và thêm 2 dấu !! ở trước và trong Effect Oftion chọn word
++ Trong khi làm morph, đôi khi nên làm slide kết quả trước, slide cần chuyển sau

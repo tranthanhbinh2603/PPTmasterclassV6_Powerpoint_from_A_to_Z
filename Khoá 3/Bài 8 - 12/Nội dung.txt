@@ -1,1 +1,0 @@
-- Thêm transtion trên thanh acess tool bar
