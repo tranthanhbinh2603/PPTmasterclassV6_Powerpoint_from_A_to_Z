@@ -12,3 +12,11 @@
 + Khi hành động A (trigger) được thực hiện, hành động B được thực hiện
 + Onclick: Tạo 1 khối làm nút để tạo ra nút
 + Onbookmark: Video. Ứng dụng làm bookmark video
+
+- Lời khuyên hiệu ứng:
++ Hiệu ứng nhẹ nhàng
++ Đồng bộ hiệu ứng trên cùng 1 slide
+
+- Các hiệu ứng di chuyển, xuất hiện:
++ Cho chữ xuất hiện theo đầu người (hoặc vật thể chính)
++ Xuất hiện theo sự ẩn tự (1 từ trái sang phải, 2 từ trái sang phải, 3 từ trên xuống dưới, 4 từ phải sang trái)
