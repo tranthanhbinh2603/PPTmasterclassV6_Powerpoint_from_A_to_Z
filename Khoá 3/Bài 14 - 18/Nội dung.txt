@@ -1,0 +1,31 @@
+- Có 4 loại hiệu ứng: 
++ Xuất hiện: Màu xanh lá cây
++ Nhấn mạnh: Màu vàng. Đối tượng đã xuất hiện
++ Biến mất
++ Dịch chuyển
+
+- Các loại hiệu ứng phân biệt qua 3 màu 
+
+- Áp dụng hiệu ứng
+- Nhận biết hiệu ứng đã xuất hiện (chỉ hiển thị khi chọn tab Animation)
+
+- Với chọn 1 đoạn văn bản, chỉ áp dụng cho đoạn văn thôi. Để áp dụng nguyên 1 khối văn bản, phải chọn toàn khối
+
+- Duration và Delay
+
+- Xoá hiệu ứng
+
+- Thêm thanh Animations nhanh trên tab Quick Access Toolbar
+
+- Add Animation (2 animation)
+- Cách nhận biết
+
+- Animation Plane
+
+- With Previous, After Previous
+
+- Độ dài duration bên ngoài tối đa 60s. Trong Effect Options là dài hơn, nhưng vẫn có giới hạn. Phải kéo trong Animation Pane thì mới không giới hạn
+
+- Zoom in, Zoom out trong Animation Pane
+
+- Animation Painter

@@ -1,0 +1,14 @@
+- Đổi tên các đối tượng:
++ Cần đổi tên các đối tượng: Nhận biết hiểu ứng nào đang áp dụng cho hình nào
++ Cách đổi tên
+
+- Tầng đối tượng
++ Thay đổi tầng đối tượng
++ Ẩn bớt đối tượng (hình con mắt)
++ Group đối tượng, ứng dụng trong chạy Animation
+	= Chú ý: Chỉ có thể áp dụng Animation cho 1 group chung, không thể áp dụng cho 1 phần tử trong 1 group
+
+- Trigger:
++ Khi hành động A (trigger) được thực hiện, hành động B được thực hiện
++ Onclick: Tạo 1 khối làm nút để tạo ra nút
++ Onbookmark: Video. Ứng dụng làm bookmark video
