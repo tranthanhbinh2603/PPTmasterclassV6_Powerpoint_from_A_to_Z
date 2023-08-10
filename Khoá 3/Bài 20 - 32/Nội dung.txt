@@ -20,3 +20,8 @@
 - Các hiệu ứng di chuyển, xuất hiện:
 + Cho chữ xuất hiện theo đầu người (hoặc vật thể chính)
 + Xuất hiện theo sự ẩn tự (1 từ trái sang phải, 2 từ trái sang phải, 3 từ trên xuống dưới, 4 từ phải sang trái)
+
+- Hiệu ứng bất ngờ:
++ Có âm thanh Chime, sử dụng hiệu ứng Split out (có chỉnh lại effect options), ở sau có hình ảnh của 1 đám trẻ.
++ Trong effection có thể chọn âm thanh, chú ý phải chuyển file sang wav
++ Dùng 1 lớp trên đè 1 lớp dưới để tạo ra sự bất ngờ
