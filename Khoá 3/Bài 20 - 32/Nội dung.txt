@@ -25,3 +25,14 @@
 + Có âm thanh Chime, sử dụng hiệu ứng Split out (có chỉnh lại effect options), ở sau có hình ảnh của 1 đám trẻ.
 + Trong effection có thể chọn âm thanh, chú ý phải chuyển file sang wav
 + Dùng 1 lớp trên đè 1 lớp dưới để tạo ra sự bất ngờ
+
+- Ở hiệu ứng điểm đầu điểm cuối:
++ Sử dụng cho các vật thể di chuyển (như ô tô, xe máy, đường trên biểu đồ...)
++ Point: Điểm đi chuyển, đảo hướng trong đường đi (path)
++ Điểm bắt đầu (màu xanh lá), điểm kết thúc (màu đỏ)
++ Line path:
+	- Có 0 point
+	- Chỉnh điểm đầu và điểm cuối nhanh
+	- Auto Revert và Repeat trong Effect Options
+	- Rolate Object để đảo ngược hình ảnh
+	- Hiệu ứng lật ngược: Strech
