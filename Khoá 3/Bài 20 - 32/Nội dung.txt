@@ -36,3 +36,18 @@
 	- Auto Revert và Repeat trong Effect Options
 	- Rolate Object để đảo ngược hình ảnh
 	- Hiệu ứng lật ngược: Strech
+	- Append
+	- Revert Path và Locked
+
+- Smooth start, smooth end:
++ Tốc độ tăng dần/giảm dần.
++ 2 cái này cộng lại không quá duration
+
+- Bounce End:
++ Chỉ có thể có smoth end hoặc bounce end
++ Dao động điểm cuối cùng
++ Để hiệu ứng luôn lặp lại: Vị trí bắt đầu trùng với vị trí kết thúc
+
+- Ứng dụng bổ sung: 
++ Mặt trăng quay quanh trái đất
++ Xoáy vào tâm
