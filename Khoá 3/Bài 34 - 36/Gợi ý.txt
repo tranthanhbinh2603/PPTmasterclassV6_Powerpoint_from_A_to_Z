@@ -1,0 +1,15 @@
+- Có bóng đen là do có 1 hình ở đằng trên
+- Nên làm trước. Rồi xem đáp án
+- Brightness làm tối toàn bộ hình
+
+- Hide during play
+- Làm cho âm thanh phát đến khi kết thúc âm thanh
+- Quay đồng hồ: Chọn hình tròn đồng hồ và cái kim để nó quay.
+- Xem postion của vật
+- Giữ control + resize => Kéo cả 2 vùng trái - phải trong khối
+
+- Trò bịp tạo khối biến mất:
++ Tạo khối
++ Tạo hiệu ứng Biến mất khối
++ Chọn khối, chọn action -> Trở slide khác
++ Trong slide khác tạo 1 khối để trở về slide có khối cần biến mất.

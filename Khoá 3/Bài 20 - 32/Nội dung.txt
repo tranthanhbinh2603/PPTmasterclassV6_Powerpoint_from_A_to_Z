@@ -65,3 +65,11 @@
 - Teether + Trigger
 + Thu to / Thu nhỏ
 + Vẽ hình tròn
+
+- Hiệu ứng cho chữ:
++ Gồm Flip, Drop, Whip
++ Options trong hiệu ứng chữ
+
+- Actions
++ Insert -> Actions
++ Muốn chuyển sang slide, chỉ nên chọn Slide để chọn slide chính
